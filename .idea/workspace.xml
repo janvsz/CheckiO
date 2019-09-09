@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e68ad6d2-57a5-48b3-8f12-f8e55d9a1b6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Home/AllTheSame" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/BirdLanguage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/FlattenAList" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/HousePassword" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/LongRepeat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/NonUniqueElements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/SunAngle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/All the same" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/Bird language" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/Flatten a list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/House password" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/Long repeat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/Non-unique elements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/Sort array by elements" beforeDir="false" afterPath="$PROJECT_DIR$/Home/SortArrayByElements" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/Sun angle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/The most wanted letter" beforeDir="false" afterPath="$PROJECT_DIR$/Home/TheMostWantedLetter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home/Time converter" beforeDir="false" afterPath="$PROJECT_DIR$/Home/TimeConverter" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AllTheSame">
+  <component name="RunManager" selected="Python.TheShipTeams">
     <configuration name="AllTheSame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CheckiO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +59,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheckiO_txt/Home/AllTheSame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TheShipTeams" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CheckiO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Escher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Escher/TheShipTeams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TheShipTeams" />
         <item itemvalue="Python.AllTheSame" />
         <item itemvalue="Python.TheWarriors" />
         <item itemvalue="Python.main" />
@@ -166,6 +171,73 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/TheShipTeams.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
