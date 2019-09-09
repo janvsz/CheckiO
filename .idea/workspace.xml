@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e68ad6d2-57a5-48b3-8f12-f8e55d9a1b6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CheckiO_txt/Home/PawnBrotherhood.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CheckiO_txt/Home/TheWarriors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CheckiO_txt/Home/XsAndOsReferee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/AllTheSame" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/BirdLanguage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/FlattenAList" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/HousePassword" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/LongRepeat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/NonUniqueElements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/SunAngle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckiO_txt" beforeDir="false" afterPath="$PROJECT_DIR$/CheckiO_txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheWarriors/TheWarriors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/All the same" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Bird language" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Flatten a list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/House password" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Long repeat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Non-unique elements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Sort array by elements" beforeDir="false" afterPath="$PROJECT_DIR$/Home/SortArrayByElements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Sun angle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/The most wanted letter" beforeDir="false" afterPath="$PROJECT_DIR$/Home/TheMostWantedLetter" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Time converter" beforeDir="false" afterPath="$PROJECT_DIR$/Home/TimeConverter" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
