@@ -1,0 +1,21 @@
+As input you’ll be given the coordinates of the dogs. Your task is to find the distance to the nearest point from which you can kill the maximum number of animals with one shot (any number of dogs on the same line can be killed with one shot). Your starting position is the point (0, 0).
+
+If the calculated distance is an integer, return it as int, otherwise round it to 2 decimal places.
+Don't worry about the situation when a few dogs on the line is behind your back (dog dog you dog) - there no such situation in the tests.
+
+Input: list of coordinates (tuple of two integers/float) of the dogs.
+
+Output: distance to the best spot.
+
+Example:
+
+wild_dogs([(7, 122), (8, 139), (9, 156),
+
+           (10, 173), (11, 190), (-100, 1)]) == 0.18
+
+
+How it is used: For the tactical analisys and troops placement.
+
+Precondition:
+2 <= amount of the dogs <= 15
+0 <= distance to the right place <= 20
