@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e68ad6d2-57a5-48b3-8f12-f8e55d9a1b6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Escher/Compass map and spyglass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Escher/Compass map and spyglass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Compass map and spyglass">
+  <component name="RunManager" selected="Python.Wild dogs">
     <configuration name="AllTheSame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CheckiO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TheWarriors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Wild dogs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CheckiO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TheWarriors" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Escher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheckiO_txt/Home/TheWarriors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Escher/Wild dogs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Wild dogs" />
         <item itemvalue="Python.Compass map and spyglass" />
         <item itemvalue="Python.GroundForTheHouse" />
         <item itemvalue="Python.TheShipTeams" />
         <item itemvalue="Python.AllTheSame" />
-        <item itemvalue="Python.TheWarriors" />
       </list>
     </recent_temporary>
   </component>
@@ -298,6 +296,86 @@
           <url>file://$PROJECT_DIR$/Escher/Compass map and spyglass.py</url>
           <line>18</line>
           <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Escher/Wild dogs.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="318" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
