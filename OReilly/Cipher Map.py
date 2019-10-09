@@ -1,5 +1,16 @@
 def recall_password(cipher_grille, ciphered_password):
-    return ""
+
+    result = []
+
+    for i in range(4):
+        for rows in zip(cipher_grille, ciphered_password):
+            for g, p in zip(*rows):
+                if g == 'X':
+                    result.append(p)
+
+        cipher_grille = list(zip(*cipher_grille[::-1]))
+
+    return ''.join(result)
 
 
 if __name__ == '__main__':

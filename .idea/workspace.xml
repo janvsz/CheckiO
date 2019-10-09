@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e68ad6d2-57a5-48b3-8f12-f8e55d9a1b6f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OReilly/Striped Words.py" beforeDir="false" afterPath="$PROJECT_DIR$/OReilly/Striped Words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OReilly/Cipher Map.py" beforeDir="false" afterPath="$PROJECT_DIR$/OReilly/Cipher Map.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Striped Words">
+  <component name="RunManager" selected="Python.Cipher Map">
     <configuration name="Cipher Map" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CheckiO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,10 +156,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Cipher Map" />
         <item itemvalue="Python.Striped Words" />
         <item itemvalue="Python.asdasd" />
         <item itemvalue="Python.aasdasd" />
-        <item itemvalue="Python.Cipher Map" />
         <item itemvalue="Python.Worth of words" />
       </list>
     </recent_temporary>
